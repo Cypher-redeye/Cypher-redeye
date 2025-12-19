@@ -34,11 +34,12 @@ I love taking complex systems apart to see how they work. My focus lies at the i
 
 ---
 
-### 🚀 Projects & Experience
-> **[Explore my Portfolio Hub](https://nebula-command--om2317160.replit.app/)** | **[View My Resume](https://drive.google.com/drive/u/0/my-drive)**
+### 🚀 Projects & Portfolio
+> **[Explore my Portfolio Hub →](https://nebula-command--om2317160.replit.app/)**
 
-* **PitStop Assistant AI:** Fine-tuning neural networks for specialized intent recognition.
+* **PitStop Assistant AI:** Fine-tuning neural networks for specialized automotive intent recognition.
 * **Oracle AI Integration:** Implementing vector search for hyper-accurate data retrieval in web apps.
+* **Nebula Command:** A centralized dashboard for managing full-stack AI experiments.
 
 ---
 
