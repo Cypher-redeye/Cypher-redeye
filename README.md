@@ -1,48 +1,34 @@
-# ⚡ OM Sharma (Cypher-redeye)
+# Hi 👋, I'm OM Sharma
 
 ### AI Engineering Undergraduate | Oracle Certified Professional | Full Stack Developer
 
-[cite_start]I am a dedicated **Artificial Intelligence Engineering** student at **Parul University** [cite: 10, 11] [cite_start]with a current **CGPA of 8.2/10**[cite: 14]. My work focuses on bridging the gap between complex AI models and user-centric web applications. [cite_start]I specialize in **Natural Language Processing (NLP)** and building intelligent, scalable backend systems[cite: 6, 7].
+- 🔭 I'm currently working on **Refining neural network intent classification for the PitStop Assistant AI agent.
+integrating Oracle AI Vector Search into my full-stack Django applications.
+**
 
----
+- 🌱 I'm currently learning **Advanced Retrieval-Augmented Generation (RAG) using Oracle AI Vector Search.
+**
 
-### 🚀 Technical Expertise
+- 👯 I'm looking to collaborate on **open source projects**
 
-* [cite_start]**Languages:** Python, SQL, Java, C, HTML/CSS [cite: 13]
-* [cite_start]**AI/ML/NLP:** TensorFlow, NLTK, Scikit-Learn, Pandas, NumPy, Intent Classification, Neural Networks [cite: 15]
-* [cite_start]**Web & Backend:** Django (MVT), REST APIs, Bootstrap, Kafka [cite: 16]
-* [cite_start]**Database:** Oracle SQL, PostgreSQL, SQLite [cite: 17]
-* [cite_start]**Tools:** Git, Docker, Postman, VS Code, Jupyter Notebooks [cite: 18]
+- 💬 Ask me about **NLP & Intent Recognition, Oracle Cloud (GenAI & Vector Search), Django Backend Architecture**
 
----
+- 📫 How to reach me **om2317160@gmail.com**
 
-### 🛠️ Featured Projects
+- ⚡ Fun fact **I'm a "Digital Mechanic"—whether it's fixing intent-recognition bugs or designing car trading platforms, I love taking complex systems apart to see how they work.**
 
-#### [PitStop Assistant](https://github.com/Cypher-redeye/PitStop-Assistant) 🤖
-* [cite_start]Engineered a specialized **NLP chatbot** for car buying and selling support[cite: 23].
-* [cite_start]Developed an **Intent Recognition engine** using neural networks to handle complex automotive queries[cite: 24].
-* [cite_start]Implemented a text preprocessing pipeline using **NLTK (Tokenization, Lemmatization)**[cite: 25].
+- 👨‍💻 All of my projects are available at **[https://nebula-command--om2317160.replit.app/](https://nebula-command--om2317160.replit.app/)**
 
-#### [AutoMax](https://github.com/Cypher-redeye/AutoMax) 🚗
-* [cite_start]Built a full-stack car trading marketplace using **Django MVT** architecture[cite: 28, 31].
-* [cite_start]Designed normalized database models to manage users, listings, and media assets[cite: 32].
-* [cite_start]Integrated secure user authentication and comprehensive **CRUD operations**[cite: 33].
+- 📄 Know about my experiences **[https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/OM Sharma (Cypher-redeye)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OM Sharma (Cypher-redeye)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/om-sharma38/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/om-sharma38/" height="30" width="40" /></a>
+<a href="https://leetcode.com/https://leetcode.com/u/bfZ28mtNP7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bfZ28mtNP7/" height="30" width="40" /></a>
+</p>
 
-### 🏆 Certifications & Experience
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
 
-* [cite_start]**Oracle Certified Professional:** AI Vector Search, OCI 2025 Data Science, and OCI 2025 Generative AI[cite: 44, 46].
-* [cite_start]**Software Engineering Simulation:** JPMorgan Chase & Co. - Implemented Kafka and REST API endpoints[cite: 35, 37, 38].
-* [cite_start]**GenAI Data Analytics:** Tata Group - Conducted EDA and built delinquency prediction models[cite: 39, 41, 42].
-* [cite_start]**NPTEL:** Computer Networks and Internet Protocol (IIT Kharagpur)[cite: 49].
 
----
-
-### 📈 Connect With Me
-
-* [cite_start]**LinkedIn:** [linkedin.com/in/om-sharma38](https://linkedin.com/in/om-sharma38) [cite: 3]
-* [cite_start]**LeetCode:** [leetcode.com/u/bfZ28mtNP7](https://leetcode.com/u/bfZ28mtNP7) [cite: 5]
-* [cite_start]**Email:** [om2317160@gmail.com](mailto:om2317160@gmail.com) [cite: 2]
-
-*"Information is power, but intelligence is the key to unlocking it."*
