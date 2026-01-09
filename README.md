@@ -35,7 +35,7 @@ I specialize in taking complex systems apart to optimize them from the ground up
 ---
 
 ### 🚀 Projects & Portfolio
-> **[Explore my Portfolio Hub →](portfolio-jet-one-b3nuju8575.vercel.app)**
+> **[Explore my Portfolio Hub →](https://portfolio-jet-one-b3nuju8575.vercel.app)**
 
 * **PitStop Assistant AI:** Fine-tuning neural networks for high-precision automotive intent recognition and diagnostics.
 * **Oracle AI Integration:** Leveraging Oracle Vector Search to deliver hyper-accurate data retrieval in enterprise web environments.
