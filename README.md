@@ -1,65 +1,117 @@
-# 🛠️ Hi, I'm OM Sharma
-### **AI Engineering Undergraduate | Oracle Certified Professional | Full Stack Developer**
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-Certified_Professional-red?style=flat-square&logo=oracle" alt="Oracle Certified" />
-  <img src="https://img.shields.io/badge/Specialization-GenAI_%26_Vector_Search-orange?style=flat-square" alt="GenAI" />
-  <img src="https://img.shields.io/badge/Main-Django_%26_Python-blue?style=flat-square&logo=python" alt="Python Django" />
-</p>
+### <div align="center">Hi 👋 I'm Om Sharma, an AI Engineering Undergraduate 🤖</div>
 
----
-
-### 👨‍💻 "The Digital Mechanic"
-I specialize in taking complex systems apart to optimize them from the ground up. My expertise lies at the intersection of **AI Intent Recognition** and **Scalable Backend Architecture**, bridging the gap between neural networks and enterprise-grade database solutions.
-
-* 🔭 **Current Focus:** Refining neural network intent classification for the **PitStop Assistant AI** agent.
-* 🧠 **Innovation:** Architecting **Oracle AI Vector Search** integrations into full-stack Django applications for production-ready RAG workflows.
-* 🌱 **Learning:** Mastering **Advanced Retrieval-Augmented Generation (RAG)** and Graph-based data retrieval.
-* ⚡ **Fun Fact:** I treat every codebase like a high-performance engine—tuning it for maximum efficiency, reliability, and speed.
+<div align="center">
+Building intelligent systems using AI, ML & Full-Stack Development 🚀  
+</div>
 
 ---
 
-### 🧰 Tech Stack & Tools
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **AI & ML** | `PyTorch` `TensorFlow` `Scikit-Learn` `NLP` `Vector Search` |
-| **Backend** | `Django` `Flask` `Oracle Cloud (OCI)` `MySQL` `PostgreSQL` |
-| **Frontend** | `React` `Angular` `JavaScript` `HTML5` `Figma` |
-| **DevOps** | `Docker` `AWS` `Git` `CI/CD` `Arduino` |
-
-<p align="left">  
-  <a href="#"><img src="https://skillicons.dev/icons?i=py,django,pytorch,tensorflow,mysql,postgres,oracle,docker,aws,react,angular,js,figma,git&theme=dark" /></a>
-</p>
+- 🎓 B.Tech in Artificial Intelligence @ **Parul University** (CGPA: 8.2)
+- 🔭 Currently working on **AI-powered & Django-based applications**
+- 🌱 Learning **Generative AI, LLMs, Cloud AI & MLOps**
+- 🧠 Strong interest in **Machine Learning, NLP & Data Analytics**
+- 💬 Ask me about **Python, ML, Django, REST APIs, Oracle Cloud**
+- ⚡ Fun fact: I enjoy turning real-world problems into AI solutions
 
 ---
 
-### 🚀 Projects & Portfolio
-> **[Explore my Portfolio Hub →](https://portfolio-jet-one-b3nuju8575.vercel.app)**
+## 🧠 My Skill Set
 
-* **PitStop Assistant AI:** Fine-tuning neural networks for high-precision automotive intent recognition and diagnostics.
-* **Oracle AI Integration:** Leveraging Oracle Vector Search to deliver hyper-accurate data retrieval in enterprise web environments.
-* **Nebula Command:** A centralized dashboard designed to manage and monitor full-stack AI experiments and deployments.
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 👨‍💻 Programming & Core
+<div align="center">
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/java-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/>
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 AI / ML / Data
+<div align="center">
+<img src="https://profilinator.rishav.dev/skills-assets/tensorflow-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/scikit-learn-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="50"/>
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🌐 Backend / Cloud / Tools
+<div align="center">
+<img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50"/>
+<img src="https://profilinator.rishav.dev/skills-assets/sqlite-original.svg" height="50"/>
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 GitHub Ecosystem
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cypher-redeye&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher-redeye&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
+## 🚀 Featured Projects
+
+### 🧠 PitStop Assistant – AI Automotive Chatbot
+- NLP-based support agent using **TensorFlow & NLTK**
+- Custom intent recognition engine (92% accuracy)
+- Automotive-specific conversational AI  
+🔗 **Live:** https://chatbot-vx1g.onrender.com  
+🔗 **Code:** https://github.com/Cypher-redeye/PitStop-Assistant
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-<a href="mailto:om2317160@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/om-sharma38/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/bfZ28mtNP7/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-</p>
+### 🚗 AutoMax – Car Trading Platform
+- Full-stack Django marketplace
+- Secure backend with scalable MVT architecture
+- Dynamic vehicle listings & filtering  
+🔗 **Live:** https://automax-vqh9.onrender.com  
+🔗 **Code:** https://github.com/Cypher-redeye/AutoMax
 
-<br />
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
-</p>
+## 🎖 Certifications
+- Oracle AI Vector Search Certified Professional
+- OCI Certified Generative AI Professional
+- OCI Certified Data Science Professional
+- OCI AI Foundations Associate
+- NPTEL: Computer Networks – IIT Kharagpur
+
+---
+
+## 🌐 Connect with Me
+<div align="center">
+<a href="https://github.com/Cypher-redeye"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/om-sharma38"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/bfZ28mtNP7"><img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow"/></a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Cypher-redeye&show_icons=true&count_private=true&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Cypher-redeye&style=flat-square"/>
+</div>
