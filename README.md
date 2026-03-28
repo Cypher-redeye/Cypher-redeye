@@ -12,6 +12,10 @@
 
 <br/>
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://portfolio-jet-one-b3nuju8575.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-sharma38/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/om_sharma38/)
@@ -22,6 +26,8 @@
 ---
 
 ## `> whoami`
+
+<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280" alt="ai coding gif"/>
 
 ```python
 class OmSharma:
@@ -39,6 +45,8 @@ class OmSharma:
         "Oracle AI Vector Search Certified"
     ]
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -164,7 +172,7 @@ class OmSharma:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cypher-redeye&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Cypher-redeye&theme=chartreuse-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Cypher-redeye&theme=chartreuse-dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher-redeye&layout=compact&theme=chartreuse-dark&hide_border=true&count_private=true)
 
@@ -186,6 +194,10 @@ class OmSharma:
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="480" alt="coding activity gif"/>
+
+<br/>
+
 ![Contribution Snake](https://raw.githubusercontent.com/Cypher-redeye/Cypher-redeye/output/github-contribution-grid-snake-dark.svg)
 
 </div>
@@ -200,6 +212,7 @@ class OmSharma:
 // Status: Open to collaborate ✅
 ```
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Cypher-redeye&label=Profile%20Views&color=12&icon=5&pretty=true)
+![](https://komarev.com/ghpvc/?username=Cypher-redeye&color=00FF9C&style=flat-square&label=Profile+Views)
 
 </div>
+
