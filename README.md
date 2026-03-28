@@ -1,12 +1,4 @@
-<div align="center">
 
-<pre>
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║         INITIALIZING  //  OM SHARMA  //  AI ENGINEER          ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-</pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+AI+that+ships+to+production.;ML+Engineer+%7C+Full-Stack+Dev+%7C+AI+Researcher;PyTorch+%7C+Django+%7C+React+%7C+Docker;CGPA+8.2+%40+Parul+University" alt="Typing SVG" />
 
