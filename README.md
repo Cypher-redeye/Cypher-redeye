@@ -1,27 +1,205 @@
-# 💫 About Me:
-- 🔭 I’m currently working on AI-powered applications using Machine Learning, NLP, and Django, focusing on real-world problem solving.<br><br>- 👯 I’m looking to collaborate on projects related to Artificial Intelligence, Machine Learning, NLP, Data Analytics, and Full-Stack Development.<br><br>- 🤝 I’m looking for help with advancing my skills in Generative AI, scalable AI systems, and deploying ML models on cloud platforms.<br><br>- 🌱 I’m currently learning Generative AI, advanced Machine Learning techniques, and Cloud AI using Oracle Cloud Infrastructure.<br><br>- 💬 Ask me about Python, Machine Learning, NLP, Django REST APIs, Data Science, and Oracle Cloud AI services.<br><br>- ⚡ Fun fact: I enjoy building AI systems that turn complex data into simple, intelligent solutions.
+<div align="center">
 
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║         INITIALIZING  //  OM SHARMA  //  AI ENGINEER          ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-sharma38/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:om2317160@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+AI+that+ships+to+production.;ML+Engineer+%7C+Full-Stack+Dev+%7C+AI+Researcher;PyTorch+%7C+Django+%7C+React+%7C+Docker;CGPA+8.2+%40+Parul+University" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cypher-redeye&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Cypher-redeye&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher-redeye&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cypher-redeye&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://portfolio-jet-one-b3nuju8575.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-sharma38/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/om_sharma38/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om2317160@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Cypher-redeye&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Cypher-redeye&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `> whoami`
+
+```python
+class OmSharma:
+    role        = "AI Engineering Student @ Parul University"
+    cgpa        = 8.2
+    location    = "Vadodara, India 🇮🇳"
+    focus       = ["ML Engineering", "Full-Stack AI", "MLOps", "NLP"]
+    currently   = "Building Cresta — a full-stack AI Robo-Advisor"
+    fun_fact    = "I turn messy data into production ML systems 🚀"
+
+    certifications = [
+        "OCI Generative AI Professional",
+        "OCI Data Science Professional",
+        "OCI AI Foundations Associate",
+        "Oracle AI Vector Search Certified"
+    ]
+```
+
+---
+
+## `> ls projects/`
+
+<details>
+<summary><b>🤖 Cresta — Full-Stack AI Robo-Advisor</b> &nbsp;<code>[Jan 2026 – Present]</code></summary>
+<br/>
+
+> A production-grade robo-advisory platform for NSE/BSE equity markets with AI-powered stock recommendations.
+
+| Metric | Value |
+|---|---|
+| Directional Accuracy | **72.3% avg** (peak 85.2% on RELIANCE.NS) |
+| Prediction Latency | **↓ ~60%** via 3-tier ML caching (Redis → FS → live) |
+| Risk Profiling | **84% accuracy** (XGBoost + SHAP explainability) |
+| Architecture | 6-microservice Docker Compose stack |
+| Languages | Hindi 🇮🇳 · Gujarati · Punjabi (react-i18next) |
+
+**Stack:** `PyTorch` `Attention-LSTM` `XGBoost` `ARIMA` `FinBERT` `Django REST` `React 18` `Redis` `PostgreSQL` `Celery` `Docker`
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cypher-redeye/Cresta)
+
+</details>
+
+<details>
+<summary><b>📄 ResuMate — AI Career Assistant</b> &nbsp;<code>[Dec 2025 – Jan 2026]</code></summary>
+<br/>
+
+> AI-powered resume optimizer with real-time ATS analysis and keyword gap detection.
+
+- ⚡ Sub-second responses (<0.5s) via Groq API + LangChain
+- 🎯 95% keyword gap accuracy with custom PDF/Docx parser
+- 📋 50+ ATS compatibility checks
+
+**Stack:** `Python` `Streamlit` `Groq API` `LangChain`
+
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://resumate.streamlit.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cypher-redeye/ResuMate)
+
+</details>
+
+<details>
+<summary><b>🚗 AutoMax — AI Car Trading Platform</b> &nbsp;<code>[Jan 2025 – Mar 2025]</code></summary>
+<br/>
+
+> Scalable full-stack car marketplace with an NLP-powered support chatbot.
+
+- 📦 100+ vehicle listings with dynamic filtering
+- 🤖 NLP Intent Recognition: **90% accuracy** on automotive queries
+- 👥 Built in a 3-person agile team
+
+**Stack:** `Django` `TensorFlow` `NLTK` `PostgreSQL` `Render`
+
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://automax-ikap.onrender.com) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cypher-redeye/AutoMax)
+
+</details>
+
+---
+
+## `> cat tech_stack.txt`
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Backend / APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+
+**DevOps / Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+## `> cat certifications.txt`
+
+```
+[✔] OCI 2025 Generative AI Professional         — Oracle
+[✔] OCI 2025 Data Science Professional           — Oracle
+[✔] OCI 2025 AI Foundations Associate            — Oracle
+[✔] Oracle AI Vector Search Certified            — Oracle
+[✔] Introduction to IoT & Digital Transformation — Cisco
+[✔] Computer Networks & Internet Protocol        — IIT Kharagpur (NPTEL)
+[✔] Graph Theory Programming Camp               — AlgoUniversity
+```
+
+---
+
+## `> git log --stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cypher-redeye&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Cypher-redeye&theme=chartreuse-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher-redeye&layout=compact&theme=chartreuse-dark&hide_border=true&count_private=true)
+
+</div>
+
+---
+
+## `> cat trophies.txt`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Cypher-redeye&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## `> tail -1 /var/log/activity.log`
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/Cypher-redeye/Cypher-redeye/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+// Currently shipping: Cresta v1.0 → production
+// Next target: ML Engineering Internship 2026
+// Status: Open to collaborate ✅
+```
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=Cypher-redeye&label=Profile%20Views&color=12&icon=5&pretty=true)
+
+</div>
