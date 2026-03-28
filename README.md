@@ -1,12 +1,12 @@
 <div align="center">
 
-```
+<pre>
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
 ║         INITIALIZING  //  OM SHARMA  //  AI ENGINEER          ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+AI+that+ships+to+production.;ML+Engineer+%7C+Full-Stack+Dev+%7C+AI+Researcher;PyTorch+%7C+Django+%7C+React+%7C+Docker;CGPA+8.2+%40+Parul+University" alt="Typing SVG" />
 
@@ -29,7 +29,7 @@
 
 <img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280" alt="ai coding gif"/>
 
-```python
+<pre>
 class OmSharma:
     role        = "AI Engineering Student @ Parul University"
     cgpa        = 8.2
@@ -44,7 +44,7 @@ class OmSharma:
         "OCI AI Foundations Associate",
         "Oracle AI Vector Search Certified"
     ]
-```
+</pre>
 
 <br clear="right"/>
 
