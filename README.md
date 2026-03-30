@@ -162,11 +162,10 @@ class OmSharma:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cypher-redeye&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&cache_seconds=1800)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cypher-redeye&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Cypher-redeye&theme=chartreuse-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher-redeye&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cypher-redeye&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 </div>
 
@@ -176,7 +175,7 @@ class OmSharma:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Cypher-redeye&theme=matrix&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Cypher-redeye&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
