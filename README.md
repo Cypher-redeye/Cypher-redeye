@@ -161,6 +161,8 @@ class OmSharma:
 ## `> git log --stats`
 
 <div align="center">
+[![GitHub Trend Trophy](https://vercel.app)](https://github.com)
+
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cypher-redeye&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Cypher-redeye&theme=chartreuse-dark&hide_border=true)
