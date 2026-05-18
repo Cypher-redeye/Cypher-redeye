@@ -161,8 +161,10 @@ class OmSharma:
 ## `> git log --stats`
 
 <div align="center">
-[![GitHub Trend Trophy](https://vercel.app)](https://github.com)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cypher-redeye&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cypher-redeye&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Cypher-redeye&theme=chartreuse-dark&hide_border=true)
@@ -180,6 +182,7 @@ class OmSharma:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
+
 ---
 
 ## `> tail -1 /var/log/activity.log`
@@ -207,4 +210,3 @@ class OmSharma:
 ![](https://komarev.com/ghpvc/?username=Cypher-redeye&color=00FF9C&style=flat-square&label=Profile+Views)
 
 </div>
-
