@@ -162,8 +162,7 @@ class OmSharma:
 
 <div align="center">
 
-[![trophy](./trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>
+
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Cypher-redeye&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Cypher-redeye&theme=chartreuse-dark&hide_border=true)
