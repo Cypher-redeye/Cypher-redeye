@@ -162,7 +162,7 @@ class OmSharma:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cypher-redeye&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cypher-redeye&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
