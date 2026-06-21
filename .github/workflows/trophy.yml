@@ -16,7 +16,9 @@ jobs:
 
       - name: Download trophy SVG
         run: |
-          curl -L -f -o trophy.svg "https://github-profile-trophy.vercel.app/?username=Cypher-redeye&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=6"
+          curl -L -f -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
+          -o trophy.svg \
+          "https://github-profile-trophy.vercel.app/?username=Cypher-redeye&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=6"
 
       - name: Commit and push
         run: |
