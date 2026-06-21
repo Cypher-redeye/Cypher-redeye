@@ -2,8 +2,11 @@ name: Update GitHub Trophies
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs daily at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually too
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -13,7 +16,7 @@ jobs:
 
       - name: Download trophy SVG
         run: |
-          curl -o trophy.svg "https://github-profile-trophy.vercel.app/?username=Cypher-redeye&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=6"
+          curl -L -f -o trophy.svg "https://github-profile-trophy.vercel.app/?username=Cypher-redeye&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=6"
 
       - name: Commit and push
         run: |
